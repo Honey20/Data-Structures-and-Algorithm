@@ -1,5 +1,3 @@
-# Data Structures and Algorithm
-
 ## Array
 - Reverse the array
 - Find the maximum and minimum element in an array
